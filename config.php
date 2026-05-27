@@ -4,7 +4,7 @@ session_start();
 
 // Banco de dados da aplicação
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'pmg_tracking');
+define('DB_NAME', 'pmg_tracing');
 define('DB_USER', 'usuariomysql');
 define('DB_PASS', 'senhamysql');
 
